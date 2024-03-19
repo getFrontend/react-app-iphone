@@ -1,6 +1,6 @@
 # About
 
-A new project on **React JS**, which combines **GSAP animation\***, 3D model of last iPhone using **THREE.JS**.
+A [new project](https://iphone16.vercel.app/) on **React JS**, which combines **GSAP animation**, 3D model of last iPhone using **THREE.JS**.
 
 Thanks to **JavaScript Mastery** 💎. It was a pleasure to go through another workshop that Adrian Hajdin and his team prepared.
 
