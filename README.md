@@ -19,3 +19,13 @@ It turned out to realize:
 ✔ make a fast enough site with high scores in PageSpeed Insights.
 
 Also managed to implement and try out the _Sentry_ service to monitor the performance of the application and track bugs that users may have.
+
+## ⚙️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- Three.js
+- React Three Fiber
+- React Three Drei
+- GSAP (Greensock) animation
+- Vite
